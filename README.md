@@ -1,6 +1,10 @@
 # featureengineering-mixingprocess
 ICICIC Conference 2021 - IMPROVING THE PERFORMANCE OF MIXING-PROCESS MACHINE CLASSIFICATION BASED ON FEATURE ENGINEERING TECHNIQUES: A CASE STUDY IN RUBBER-BELT INDUSTRY
 
+8 Experiments consisted of 4 Jupyter Notebooks.
+
+Summary:
+
 Technique                             | Accuracy  | Sensitivity | Specificity | F1-score
 
 Without Feature Engineering           | 87.31%    | 85.62%      | 89.06%      | 87.29%
